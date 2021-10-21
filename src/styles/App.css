@@ -61,6 +61,24 @@
   margin-right: 15px;
 }
 
+.minted {
+  color: white;
+}
+
+.os-link {
+  display: block;
+  background: -webkit-linear-gradient(left, #a200d6, #507dbc);
+  animation: gradient-animation 4s ease infinite;
+  background-size: 200% 200%;
+  color: white;
+  max-width: 300px;
+  padding: 0.5em;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: auto;
+  margin-top: 5em;
+}
+
 .opensea-button {
   background-color: rgb(32, 129, 226);
 }
